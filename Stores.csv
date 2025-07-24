@@ -1,0 +1,11 @@
+Store_ID,Store_Name,City,Region,Area_sqft,Opening_Year
+S001,Store_1,Mumbai,North,2403,2016
+S002,Store_2,Chennai,West,2784,2017
+S003,Store_3,Kolkata,West,3957,2015
+S004,Store_4,Hyderabad,West,3663,2015
+S005,Store_5,Hyderabad,East,3269,2020
+S006,Store_6,Chennai,South,2320,2020
+S007,Store_7,Mumbai,South,4667,2016
+S008,Store_8,Chennai,West,2571,2018
+S009,Store_9,Chennai,North,2491,2015
+S010,Store_10,Chennai,West,3550,2015
